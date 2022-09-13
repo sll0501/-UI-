@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/project/java_Selenium_maven">
+        <classes>
+            <!--<class name="com.lyjs.test.test.firstPageTest"/>-->
+            <class name="com.lyjs.test.test.line.lineReportTest">
+                <methods>
+                    <!--<include name="test5"></include>-->
+                    <include name="test8"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <!--运行过程中使用监听器 分别是日志和报告-->
+    <listeners>
+        <listener class-name="com.lyjs.listener.TestLogListener"></listener>
+        <listener class-name="com.lyjs.listener.TestReportListener"></listener>
+    </listeners>
+</suite>
