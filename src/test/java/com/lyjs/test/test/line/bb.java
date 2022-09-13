@@ -51,5 +51,8 @@ public class bb {
         String []strArr2=new String[]{"北京","浙江"};
         bb.getSameList(strArr1,strArr2);
 
+//        分支del修改bb类
+        System.out.println("分支del修改bb类");
+
     }
 }
