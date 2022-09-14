@@ -20,6 +20,6 @@ public class cc {
         }
          System.out.println("修改cc文件");
          System.out.println("查看与上次文件的不同");
-
+         System.out.println("git配置测试");
     }
 }
