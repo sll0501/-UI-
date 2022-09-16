@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4994a3e5-9f76-4de1-b421-71a790d4e644" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4994a3e5-9f76-4de1-b421-71a790d4e644" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +34,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Lucy.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/lyjs/test/test/line/Lucy.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -193,6 +191,27 @@
               <item name="java_Selenium_maven" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_Selenium_maven" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_Selenium_maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_Selenium_maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_Selenium_maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_Selenium_maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_Selenium_maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_Selenium_maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java_Selenium_maven" type="b2602c69:ProjectViewProjectNode" />
@@ -702,6 +721,14 @@
       <workItem from="1663048595548" duration="281000" />
       <workItem from="1663220199081" duration="737000" />
     </task>
+    <task id="LOCAL-00001" summary="master合并">
+      <created>1663296749690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663296749690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -737,10 +764,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270173000" />
+    <option name="totallyTimeSpent" value="270515000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="22" y="0" width="1312" height="840" extended-state="1" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -752,12 +779,12 @@
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.23554301" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.11950791" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.3638928" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.35983264" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.49442896" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30861244" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25938338" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -849,6 +876,14 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
             </State>
           </value>
         </entry>
@@ -857,6 +892,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="master合并" />
+    <option name="LAST_COMMIT_MESSAGE" value="master合并" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1099,6 +1138,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lyjs/test/test/line/aa.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lyjs/test/test/line/bb.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lyjs/test/test/line/cc.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lyjs/test/locator/line/lineReportLocator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1802">
@@ -1110,6 +1152,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1207">
           <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1130,7 +1175,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lyjs/test/test/line/aa.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lyjs/test/data/line/lineReportData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -1138,15 +1182,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lyjs/test/test/line/bb.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lyjs/test/test/line/lineReportTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="544">
           <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/lyjs/test/test/line/cc.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lyjs/test/test/line/Lucy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
